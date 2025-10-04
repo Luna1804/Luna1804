@@ -9,7 +9,7 @@ Holi, soy Luna_1804!
   </a>
 </p>
 <hr>
-<img align="left" src="65577dc23d275bfe31fa44e4951bd7fe.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="500" />
+<img align="left" src="elwuaxy00md71.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="500" />
 
 
 ```
