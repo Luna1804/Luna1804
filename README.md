@@ -9,11 +9,10 @@ Holi, soy Luna_1804!
   </a>
 </p>
 
-  <img align="left" src="elwuaxy00md71.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="200" />
+  <img align="left" src="elwuaxy00md71.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="500" />
   
 <hr>
 
-  
 ```
 🌌 Luna1804@github
 -------------------------
