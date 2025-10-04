@@ -8,22 +8,22 @@ Holi, soy Luna_1804!
     <img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniería+Estudiante+Frontend;SQL+SMDB+Workbench80;Aprendiendo+React;Apasionada+del+3D+y+Blender;Siempre+bajo+la+luz+de+la+luna&center=true&width=460&height=70&color=9d4edd&font=Nunito">
   </a>
 </p>
+  
 <hr>
 <img align="left" src="elwuaxy00md71.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="500" />
-
-
+  
 ```
-I-am-vishalmaurya@github
+🌌 Luna1804@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🌙 Estudiante de Frontend en formación
+✨ Actualmente en la Universidad Autónoma de Campeche en México 
+🌙 Interesada en el diseño web y las interfaces limpias  
+✨ Aprendiendo poco a poco **JavaScript** y dando mis primeros pasos en **React** 🚀  
+🌙 Con nociones de **SQL** y uso de **MySQL Workbench** , asi como de NoSQL y MongoDB
+✨ Me gusta explorar y crear modelos **3D en Blender**  
+🌙 Disfruto crear cosas pequeñas y crecer poco a poco  
+✨ Amante del Rock y la musica alternativa, y de los videojuegos
+🌱 Siempre con ganas de aprender nuevas tecnologías bajo la luz de la luna  
 ```
 <hr>
 
