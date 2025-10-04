@@ -8,9 +8,11 @@ Holi, soy Luna_1804!
     <img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniería+Estudiante+Frontend;SQL+SMDB+Workbench80;Aprendiendo+React;Apasionada+del+3D+y+Blender;Siempre+bajo+la+luz+de+la+luna&center=true&width=460&height=70&color=9d4edd&font=Nunito">
   </a>
 </p>
+
+  <img align="left" src="elwuaxy00md71.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="200" />
   
 <hr>
-<img align="left" src="elwuaxy00md71.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="200" />
+
   
 ```
 🌌 Luna1804@github
