@@ -1,14 +1,16 @@
 <h1 align="center">
-Hi, I'm Luna_1804!
+Holi, soy Luna_1804!
   <br>
-  <img src="">
+  <!-- <img src="65577dc23d275bfe31fa44e4951bd7fe.gif" width="320">-->
 <br/>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniería+Estudiante+Frontend;SQL+SMDB+Workbench80;Aprendiendo+React;Apasionada+del+3D+y+Blender;Siempre+bajo+la+luz+de+la+luna&center=true&width=460&height=70&color=9d4edd&font=Nunito">
+  </a>
 </p>
-
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
+<img align="left" src="65577dc23d275bfe31fa44e4951bd7fe.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="500" />
+
 
 ```
 I-am-vishalmaurya@github
