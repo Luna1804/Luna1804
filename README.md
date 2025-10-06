@@ -10,25 +10,31 @@ Holi, soy Luna_1804!
   </a>
   
 </p>
-
-  <img align="left" src="elwuaxy00md71.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="500" />
-  
 <hr>
-
-```
-🌌 Luna1804@github
+<p>
+    <img align="left" src="elwuaxy00md71.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="500" />
+  
+<p>
+  
+   ```
+  🌌 Luna1804@github
 -------------------------
 🌙 Estudiante de Frontend en formación
 ✨ Actualmente en la Universidad Autónoma de Campeche en México 
 🌙 Interesada en el diseño web y las interfaces limpias  
-✨ Aprendiendo poco a poco **JavaScript** y dando mis primeros pasos en React 🚀  
-🌙 Con nociones de **SQL** y uso de MySQL Workbench , asi como de NoSQL y MongoDB
+✨ Aprendiendo poco a poco JavaScript y dando mis primeros pasos en React 🚀  
+🌙 Con nociones de SQL y uso de MySQL Workbench , asi como de NoSQL y MongoDB
 ✨ Me gusta explorar y crear modelos 3D en Blender 
 🌙 Disfruto crear cosas pequeñas y crecer poco a poco  
 ✨ Amante del Rock y la musica alternativa, y de los videojuegos
 🌱 Siempre con ganas de aprender nuevas tecnologías bajo la luz de la luna  
 ```
-<hr>
+
+</p>
+
+
+</p>
+
 
 
 ## 🛠️ My Favorite Tools
