@@ -9,7 +9,6 @@ Holi, soy Luna_1804!
   </a>
 </p>
 
-<hr>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Conóceme!***
 
